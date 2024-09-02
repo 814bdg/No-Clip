@@ -14,7 +14,7 @@ local Credit = Instance.new("TextLabel")
 local Plr = Players.LocalPlayer
 local Clipon = false
 
-Noclip.Name = "BDG Noclip"
+Noclip.Name = "Noclip"
 Noclip.Parent = game.CoreGui
 
 BG.Name = "BG"
@@ -34,7 +34,7 @@ Title.BorderColor3 = Color3.new(0.180392, 0, 0.431373)
 Title.BorderSizePixel = 2
 Title.Size = UDim2.new(0, 210, 0, 33)
 Title.Font = Enum.Font.Highway
-Title.Text = "Noclip"
+Title.Text = "BDG Noclip"
 Title.TextColor3 = Color3.new(1, 1, 1)
 Title.FontSize = Enum.FontSize.Size32
 Title.TextSize = 30
